@@ -103,20 +103,6 @@ Academic depression is influenced by multiple factors such as academic pressure,
 * Poor sleep duration contributes to increased depression risk.
 * Unhealthy dietary habits are linked to higher depression prevalence.
 
-## Project Structure
-
-```text
-├── Dataset/
-│   └── student_depression.csv
-├── Notebook/
-│   └── knn_model.ipynb
-├── PowerBI/
-│   └── Depression_Dashboard.pbix
-├── Images/
-│   └── dashboard_screenshots.png
-├── README.md
-```
-
 ## Results
 
 * Successfully trained a KNN model for depression prediction.
